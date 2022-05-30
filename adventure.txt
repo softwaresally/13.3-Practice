@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Socrates !!
+=======
+Socrates ~~
+>>>>>>> c43284ec118d63428ec73639f97fc95c64e72eb2
 Joan of Arc
 Abraham Lincoln
